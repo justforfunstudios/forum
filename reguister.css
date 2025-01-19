@@ -1,0 +1,23 @@
+.password{
+    margin-left: 4px;
+}
+
+.email{
+    margin-left: 26px;
+}
+
+.buton{
+    display: flex;
+    gap: 10px;
+    position: relative;
+    transform: translateY(-5px);
+}
+
+.copy1{
+    position: relative;
+    top: 20px;
+}
+
+.confirm{
+    margin-left: 10px;
+}

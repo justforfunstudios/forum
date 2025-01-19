@@ -1,0 +1,38 @@
+.img{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.ul{
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.buton{
+    display: flex;
+    gap: 12px;
+}
+
+.copy{
+    text-align: center;
+}
+
+.texts{
+    text-align: center;
+    align-items: center;
+    border: 2px solid #020101; /* 2px thick, light gray border */
+    padding: 20px; /* Space between the border and the content */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #ffffff; /* Light background color for contrast */
+    width: 40%; /* Adjust width as needed */
+    margin: 20px auto; /* Center align the div with auto margins */
+    list-style-type: none;
+}
+
+.butons{
+    display: flex;
+    justify-content: center; /* Centers buttons horizontally */
+    align-items: center;
+    gap: 12px;
+}
